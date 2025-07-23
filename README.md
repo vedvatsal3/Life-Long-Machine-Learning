@@ -3,7 +3,7 @@
 This repository is a collection of Jupyter notebooks focused on key concepts and methods in lifelong machine learning. All content will be organized as interactive notebooks with explanations, code, and visualizations to help understand the implementation through research papers or studies on the topic.
 
 ## Contents
-📘 Current topics (in progress):
+📘 Current topics:
 
 ✅ Continual Learning — Available now
 
