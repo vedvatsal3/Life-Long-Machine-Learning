@@ -5,7 +5,7 @@ This repository is a collection of Jupyter notebooks focused on key concepts and
 ## Contents
 📘 Current topics:
 
-✅ Continual Learning — Available now
+✅ Curriculum Learning — Available now
 
 📘 Planned additions:
 
